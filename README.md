@@ -1,7 +1,5 @@
 # LG F2WV5S8S0E Combo Card
 
-![Standby](https://www.dropbox.com/s/gqudhwa5r59gxgj/stand_by.png?dl=0)
-
 <picture>
   <srcset="https://www.dropbox.com/s/gqudhwa5r59gxgj/stand_by.png?dl=0">
 </picture>
