@@ -1,6 +1,6 @@
 # LG F2WV5S8S0E Combo Card
 
-## Installation (Need this: [SmartThinQ LGE Sensors](https://github.com/ollo69/ha-smartthinq-sensors)
+## Installation (Need this: [SmartThinQ LGE Sensors](https://github.com/ollo69/ha-smartthinq-sensors))
 
 ### Manual
 - Copy the content of the custom components folder into your HA config folder see below.<br>
