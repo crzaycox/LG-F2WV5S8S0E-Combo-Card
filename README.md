@@ -20,4 +20,10 @@ Configure the time display sensor platform.<br>
                          {% else %}
                          {{ states('sensor.rozika_remaining_time')[:-3]}}
                          {% endif %}"
+    - platform: template
+    sensors:
+      rozika_pre_wash:
+        unique_id: "rozika_pre_wash"
+        friendly_name: "Rozika Pre wash"
+        value_template: "{{ state_attr('sensor.rozika', 'pre_wash') }}"
   ```
