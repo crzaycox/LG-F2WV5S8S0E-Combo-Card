@@ -3,8 +3,9 @@
 ## Installation
 
 ### Manual
-- Copy the content of the custom_components folder into your HA config folder see below.<br>
-<config directory>www/
+- Copy the content of the custom components folder into your HA config folder see below.<br>
+<config directory>
+  /config/www
 
 ### configuration(yaml)
 Configure the time display sensor platform.<br>
