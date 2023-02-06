@@ -1,10 +1,6 @@
 # LG F2WV5S8S0E Combo Card
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1NiNnKRCGgBY08V4XjRRz26GnucY9I8xp/view?usp=sharing">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1NiNnKRCGgBY08V4XjRRz26GnucY9I8xp/view?usp=sharing">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://drive.google.com/file/d/1NiNnKRCGgBY08V4XjRRz26GnucY9I8xp/view?usp=sharing">
-</picture>
+<a href="https://freeimage.host/i/H1yHyoF"><img src="https://iili.io/H1yHyoF.md.png" alt="H1yHyoF.md.png" border="0"></a>
 
 
 ## Installation (Need this: [SmartThinQ LGE Sensors](https://github.com/ollo69/ha-smartthinq-sensors))
