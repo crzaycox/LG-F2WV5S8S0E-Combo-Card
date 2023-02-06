@@ -1,4 +1,4 @@
-# LG-F2WV5S8S0E-Combo-Card
+# LG F2WV5S8S0E Combo Card
 
 ## Installation
 
