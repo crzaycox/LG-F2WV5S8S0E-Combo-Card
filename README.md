@@ -4,7 +4,7 @@
 ## Installation (Need this: [SmartThinQ LGE Sensors](https://github.com/ollo69/ha-smartthinq-sensors))
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1NiNnKRCGgBY08V4XjRRz26GnucY9I8xp/view?usp=sharing">
+  <srcset="https://drive.google.com/file/d/1NiNnKRCGgBY08V4XjRRz26GnucY9I8xp/view?usp=sharing">
 </picture>
 
 
