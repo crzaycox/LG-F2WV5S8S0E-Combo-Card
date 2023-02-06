@@ -1,10 +1,8 @@
 # LG F2WV5S8S0E Combo Card
 
 <picture>
-  <srcset="https://www.dropbox.com/s/gqudhwa5r59gxgj/stand_by.png?dl=0">
+  <srcset="https://drive.google.com/file/d/1NiNnKRCGgBY08V4XjRRz26GnucY9I8xp/view?usp=sharing">
 </picture>
-
-
 
 ## Installation (Need this: [SmartThinQ LGE Sensors](https://github.com/ollo69/ha-smartthinq-sensors))
 
