@@ -8,7 +8,7 @@
 
 ### configuration(yaml)
 Configure the time display sensor platform.<br>
-
+```yaml
   - platform: template
     sensors:
       rozika_time_display:
@@ -19,3 +19,4 @@ Configure the time display sensor platform.<br>
                          {% else %}
                          {{ states('sensor.rozika_remaining_time')[:-3]}}
                          {% endif %}"
+  ```
