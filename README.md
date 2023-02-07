@@ -110,7 +110,7 @@ cards:
         state_image:
           Drying: /local/lg-icons/sound-on.png
         style:
-          top: 54%
+          top: 53%
           left: 7%
           width: 15%
           image-rendering: auto
@@ -122,7 +122,7 @@ cards:
         state_image:
           'on': /local/lg-icons/child-lock-on.png
         style:
-          top: 55%
+          top: 53%
           left: 14%
           width: 6%
           image-rendering: auto
@@ -134,7 +134,7 @@ cards:
         state_image:
           'on': /local/lg-icons/wifi-on.png
         style:
-          top: 55%
+          top: 53%
           left: 21.5%
           width: 6%
           image-rendering: auto
@@ -146,7 +146,7 @@ cards:
         state_image:
           'on': /local/lg-icons/remote-start-on.png
         style:
-          top: 55%
+          top: 53%
           left: 30%
           width: 7%
           image-rendering: auto
@@ -158,7 +158,7 @@ cards:
         state_image:
           'on': /local/lg-icons/lock-on.png
         style:
-          top: 55%
+          top: 53%
           left: 38.5%
           width: 5%
           image-rendering: auto
@@ -170,7 +170,7 @@ cards:
         state_image:
           'on': /local/lg-icons/prewash-on.png
         style:
-          top: 67.5%
+          top: 67%
           left: 7%
           width: 6%
           image-rendering: auto
@@ -182,7 +182,7 @@ cards:
         state_image:
           Time Dry: /local/lg-icons/drying-on.png
         style:
-          top: 71.5%
+          top: 70.5%
           left: 14%
           width: 10%
           image-rendering: auto
@@ -194,7 +194,7 @@ cards:
         state_image:
           Iron Dry: /local/lg-icons/iron-on.png
         style:
-          top: 67.5%
+          top: 67%
           left: 21.5%
           width: 7%
           image-rendering: auto
@@ -206,7 +206,7 @@ cards:
         state_image:
           Low: /local/lg-icons/dry_low-on.png
         style:
-          top: 71%
+          top: 70.5%
           left: 29.4%
           width: 10%
           image-rendering: auto
@@ -218,7 +218,7 @@ cards:
         state_image:
           Energy: /local/lg-icons/dry_e-on.png
         style:
-          top: 71%
+          top: 70.5%
           left: 38.2%
           width: 10%
           image-rendering: auto
@@ -230,7 +230,7 @@ cards:
         state_image:
           'on': /local/lg-icons/button_on.png
         style:
-          top: 85.7%
+          top: 86%
           left: 3.2%
           width: 0.7%
           image-rendering: auto
@@ -242,7 +242,7 @@ cards:
         state_image:
           Rinse+: /local/lg-icons/button_on.png
         style:
-          top: 85.7%
+          top: 86%
           left: 22.6%
           width: 0.7%
           image-rendering: auto
@@ -256,7 +256,7 @@ cards:
           Low: /local/lg-icons/button_on.png
           Iron Dry: /local/lg-icons/button_on.png
         style:
-          top: 85.7%
+          top: 86%
           left: 42.6%
           width: 0.7%
           image-rendering: auto
@@ -284,7 +284,7 @@ cards:
           '0:18:00': /local/lg-icons/button_on.png
           '0:19:00': /local/lg-icons/button_on.png
         style:
-          top: 85.7%
+          top: 86%
           left: 61.8%
           width: 0.7%
           image-rendering: auto
@@ -296,7 +296,7 @@ cards:
         state_image:
           'on': /local/lg-icons/button_on.png
         style:
-          top: 85.7%
+          top: 86%
           left: 81.2%
           width: 0.7%
           image-rendering: auto
@@ -380,7 +380,7 @@ cards:
         state_image:
           'No': /local/lg-icons/spin_no-on.png
         style:
-          top: 51%
+          top: 50%
           left: 55%
           width: 13%
           image-rendering: auto
@@ -392,7 +392,7 @@ cards:
         state_image:
           '400': /local/lg-icons/spin_400-on.png
         style:
-          top: 51%
+          top: 50%
           left: 66%
           width: 13%
           image-rendering: auto
@@ -404,7 +404,7 @@ cards:
         state_image:
           '600': /local/lg-icons/spin_600-on.png
         style:
-          top: 51%
+          top: 50%
           left: 77%
           width: 13%
           image-rendering: auto
@@ -416,7 +416,7 @@ cards:
         state_image:
           '800': /local/lg-icons/spin_800-on.png
         style:
-          top: 63%
+          top: 65%
           left: 55%
           width: 13%
           image-rendering: auto
@@ -428,7 +428,7 @@ cards:
         state_image:
           '1000': /local/lg-icons/spin_1000-on.png
         style:
-          top: 63%
+          top: 65%
           left: 66%
           width: 13%
           image-rendering: auto
@@ -440,7 +440,7 @@ cards:
         state_image:
           '1200': /local/lg-icons/spin1200-on.png
         style:
-          top: 63%
+          top: 65%
           left: 77%
           width: 13%
           image-rendering: auto
@@ -450,11 +450,12 @@ cards:
         entity: sensor.rozika_time_display
         style:
           color: '#f0f0f0'
-          font-size: 57.5px
+          font-size: 51px
           font-family: segment7
-          left: 31.5%
-          top: 33.5%
+          left: 34.5%
+          top: 34.2%
           transform: translate(-100%,-50%)
         tap_action:
           action: none
+
   ```
