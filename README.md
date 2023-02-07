@@ -50,7 +50,7 @@ cards:
         style:
           top: 12%
           left: 7%
-          width: 6%
+          width: 5%
           image-rendering: auto
       - type: image
         entity: sensor.rozika_run_state
@@ -60,7 +60,7 @@ cards:
         style:
           top: 12%
           left: 7%
-          width: 6%
+          width: 5%
           image-rendering: auto
         tap_action:
           action: none
@@ -74,7 +74,7 @@ cards:
         style:
           top: 15.9%
           left: 17%
-          width: 11.4%
+          width: 10.4%
           image-rendering: auto
         tap_action:
           action: none
@@ -88,7 +88,7 @@ cards:
         style:
           top: 15.9%
           left: 28%
-          width: 11.4%
+          width: 10.4%
           image-rendering: auto
         tap_action:
           action: none
@@ -100,7 +100,7 @@ cards:
         style:
           top: 15.9%
           left: 38.5%
-          width: 11.4%
+          width: 10.4%
           image-rendering: auto
         tap_action:
           action: none
@@ -112,7 +112,7 @@ cards:
         style:
           top: 53%
           left: 7%
-          width: 15%
+          width: 13%
           image-rendering: auto
         tap_action:
           action: none
@@ -122,9 +122,9 @@ cards:
         state_image:
           'on': /local/lg-icons/child-lock-on.png
         style:
-          top: 53%
-          left: 14%
-          width: 6%
+          top: 53.7%
+          left: 15%
+          width: 5%
           image-rendering: auto
         tap_action:
           action: none
@@ -135,8 +135,8 @@ cards:
           'on': /local/lg-icons/wifi-on.png
         style:
           top: 53%
-          left: 21.5%
-          width: 6%
+          left: 22.5%
+          width: 5%
           image-rendering: auto
         tap_action:
           action: none
@@ -146,9 +146,9 @@ cards:
         state_image:
           'on': /local/lg-icons/remote-start-on.png
         style:
-          top: 53%
-          left: 30%
-          width: 7%
+          top: 53.4%
+          left: 30.5%
+          width: 6%
           image-rendering: auto
         tap_action:
           action: none
@@ -172,7 +172,7 @@ cards:
         style:
           top: 67%
           left: 7%
-          width: 6%
+          width: 5%
           image-rendering: auto
         tap_action:
           action: none
@@ -183,8 +183,8 @@ cards:
           Time Dry: /local/lg-icons/drying-on.png
         style:
           top: 70.5%
-          left: 14%
-          width: 10%
+          left: 15%
+          width: 9%
           image-rendering: auto
         tap_action:
           action: none
@@ -195,8 +195,8 @@ cards:
           Iron Dry: /local/lg-icons/iron-on.png
         style:
           top: 67%
-          left: 21.5%
-          width: 7%
+          left: 22.5%
+          width: 6%
           image-rendering: auto
         tap_action:
           action: none
@@ -207,8 +207,8 @@ cards:
           Low: /local/lg-icons/dry_low-on.png
         style:
           top: 70.5%
-          left: 29.4%
-          width: 10%
+          left: 30%
+          width: 9%
           image-rendering: auto
         tap_action:
           action: none
@@ -220,7 +220,7 @@ cards:
         style:
           top: 70.5%
           left: 38.2%
-          width: 10%
+          width: 9%
           image-rendering: auto
         tap_action:
           action: none
@@ -452,7 +452,7 @@ cards:
           color: '#f0f0f0'
           font-size: 51px
           font-family: segment7
-          left: 34.5%
+          left: 30.5%
           top: 34.2%
           transform: translate(-100%,-50%)
         tap_action:
