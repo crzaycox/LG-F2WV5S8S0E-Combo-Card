@@ -19,10 +19,10 @@ Configure the time display sensor platform.<br>
         unique_id: "rozika_hh:mmtime_display"
         friendly_name: "Rozika HH:MM Time Display"
         value_template: "{% if is_state('sensor.rozika_run_state', '-') %}
-                           - --
-                         {% else %}
-                         {{ states('sensor.rozika_remaining_time')[:-3]}}
-                         {% endif %}"
+                          - --
+                        {% else %}
+                        {{ states('sensor.rozika_remaining_time')[:-3]}}
+                        {% endif %}"
   - platform: template
     sensors:
       rozika_pre_wash:
