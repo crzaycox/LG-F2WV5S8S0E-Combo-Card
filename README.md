@@ -70,6 +70,7 @@ cards:
         state_image:
           Washing: /local/lg-icons/washing.on.gif
           Rinsing: /local/lg-icons/washing.on.gif
+          Standby: /local/lg-icons/washing-on.png
           Detecting: /local/lg-icons/washing.on.gif
         style:
           top: 15.9%
@@ -84,6 +85,7 @@ cards:
         state_image:
           Washing: /local/lg-icons/spining-on.png
           Rinsing: /local/lg-icons/spining-on.png
+          Standby: /local/lg-icons/spining-on.png
           Spinning: /local/lg-icons/spining.on.gif
         style:
           top: 15.9%
@@ -457,5 +459,4 @@ cards:
           transform: translate(-100%,-50%)
         tap_action:
           action: none
-
   ```
