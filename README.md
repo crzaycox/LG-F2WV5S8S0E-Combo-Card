@@ -459,4 +459,16 @@ cards:
           transform: translate(-100%,-50%)
         tap_action:
           action: none
+      - type: image
+        entity: sensor.rozika_run_state
+        image: /local/lg-icons/ai_blank.png
+        state_image:
+          Detecting: /local/lg-icons/detecting.gif
+        style:
+          left: 20.3%
+          top: 33.55%
+          width: 18%
+          image-rendering: auto
+        tap_action:
+          action: none
   ```
